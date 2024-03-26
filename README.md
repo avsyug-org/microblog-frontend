@@ -1,5 +1,5 @@
 # microblog-frontend
-test
+testing
 
 ## Project setup
 ```
